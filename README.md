@@ -10,7 +10,9 @@ R script - Case II.R
 
 Summary of the process Followed to build Models -  Case II.docx
 
-Presentation summarizing the Outcomes - Case II.pptx
+Presentation to target Audience - Case II.pptx
+
+Youtube Link of the presentation Recording - https://youtu.be/FJk5OFcFD7w
 
 
 
